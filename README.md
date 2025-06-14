@@ -2,21 +2,6 @@
 
 This project provides a command-line interface for interacting with Claude AI using the Anthropic API, enhanced with custom tools that allow Claude to perform actions like reading, writing, and listing files on your system.
 
-## Features
-
-- Interactive chat with Claude 3.7 Sonnet
-- Tool integration allowing Claude to:
-  - Read files from your filesystem
-  - Write content to files
-  - List files in directories
-- TypeScript implementation for type safety and maintainability
-
-## Prerequisites
-
-- Node.js
-- pnpm (or npm/yarn)
-- An Anthropic API key
-
 ## Setup
 
 1. Clone this repository:
